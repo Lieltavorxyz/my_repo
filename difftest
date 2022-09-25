@@ -1,2 +1,6 @@
 aaa
+<<<<<<< HEAD
 hello
+=======
+double d
+>>>>>>> lielta/feature_123
